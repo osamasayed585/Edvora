@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Edvora/app/src/main/res/drawable/shape_filters.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Edvora/app/src/main/res/drawable/shape_nearest.xml" value="0.2326388888888889" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Edvora/app/src/main/res/drawable/shape_nearest_item.xml" value="0.24097222222222223" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Edvora/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Edvora/app/src/main/res/layout/fragment_nearest.xml" value="0.2" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Edvora/app/src/main/res/layout/fragment_past.xml" value="0.26328125" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Edvora/app/src/main/res/layout/fragment_upcoming.xml" value="0.2" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Edvora/app/src/main/res/layout/prograss_bar.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Edvora/app/src/main/res/layout/row_nearest_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
